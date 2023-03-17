@@ -1,4 +1,4 @@
-# golang-bun-contacts-api
+# gin-bun-contacts-api
 
 A simple CRUD contacts API implemented in golang with [Gin](https://gin-gonic.com/) and [Bun](https://bun.uptrace.dev/)
 
